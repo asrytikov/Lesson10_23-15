@@ -1,4 +1,4 @@
-package dz6;
+package dz7;
 
 public class SamsungPhone extends Phone{
     @Override

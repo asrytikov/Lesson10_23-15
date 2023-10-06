@@ -1,4 +1,4 @@
-package dz6;
+package dz7;
 
 public abstract class Phone implements Callable, Informable {
 

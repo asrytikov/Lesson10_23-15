@@ -1,2 +1,7 @@
-package p1;public interface EventHandler {
+package p1;
+
+public interface EventHandler {
+
+    void execute();
+
 }
